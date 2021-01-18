@@ -1,4 +1,5 @@
 # Materiaal oefening Bootstrap een kennismaking
+Les 6: http://26305.hosts2.ma-cloud.nl/f1m2ontwerp/materiaal-voor-Bootstrap-grid-training/index.html
 
 bij de lessen ONT F1M2 Online Museum
 
